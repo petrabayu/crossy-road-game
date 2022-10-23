@@ -1,0 +1,11 @@
+Tugas Crossy Road
+
+Tema : SALJU/ANTARTIKA/christmas
+Tambahan Fitur :
+	main menu (kurang setting audio)
+	bgm/sfx mute
+	particle salju world
+
+Mempercantik UI dan Game Object
+
+background world
